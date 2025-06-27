@@ -6,7 +6,7 @@ import time
 
 # Load environment variables from .env file
 load_dotenv()
-genai.configure(api_key="AIzaSyAL2evgmQ1KLpQdT84tlp4ufbFB20xVj6M")
+genai.configure(api_key="YOUR_APT_KEY")
 
 def get_completion(prompt, temperature=0.7, max_tokens=100):
     try:
