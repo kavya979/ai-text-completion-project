@@ -11,7 +11,7 @@ This project is a simple Python-based AI text completion tool using **Google Gem
    ```bash
    python -m venv venv
    source venv/bin/activate  # or venv\Scripts\activate on Windows
-````
+   ```
 
 3. **Install dependencies**
 
